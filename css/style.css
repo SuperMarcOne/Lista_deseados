@@ -11,8 +11,7 @@
 }
 
 header {
-    background-color: #dcdcdc !important;
-    padding: 1rem;
+    background-color: #2a2051 !important;
 }
 
 
@@ -23,6 +22,7 @@ h1 {
     background-color: #dcdcdc;
     font-weight: bolder;
     color: #d32525 !important;
+    padding: 2rem;
 }
 
 h2 {
@@ -35,7 +35,7 @@ h2 {
 }
 
 main {
-    background-color: #dcdcdc;
+    background-color: #2a2051;
 }
 
 main .descripcion {
@@ -43,6 +43,7 @@ main .descripcion {
     text-align: justify;
     margin: 1rem;
     text-decoration: underline;
+    color: #dcdcdc;
 }
 
 
