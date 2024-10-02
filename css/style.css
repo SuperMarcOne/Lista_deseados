@@ -46,6 +46,11 @@ main {
     background-color: #2a2051;
 }
 
+main .soundtrack {
+    display: flex;
+    justify-content: center;
+}
+
 main .descripcion {
     font-weight: bold;
     text-align: justify;
