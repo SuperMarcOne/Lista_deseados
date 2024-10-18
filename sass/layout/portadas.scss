@@ -1,0 +1,13 @@
+.portada {
+    height: 20rem;
+    width: 15rem;
+    margin: 2rem;
+    object-fit: cover;
+    border-radius: 1rem;
+}
+
+.portada:hover {
+    transition: 3s;
+    transform: scale(1, 1.1);
+    cursor: pointer;
+}
